@@ -1,8 +1,8 @@
 {
     "name": "docker_web_application",
     "version": "1.0.0",
-    "description": "Node.js deploy on Docker container",
-    "author": "https://github.com/Freeda-F",
+    "description": "Node.js Web application",
+    "author": "https://github.com/jebincvarghese",
     "main": "server.js",
     "scripts": {
       "start": "node server.js"
