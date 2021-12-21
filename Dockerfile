@@ -1,8 +1,8 @@
 FROM alpine:3.8
 
-RUN mkdir /var/nodejs-app/
+RUN mkdir /var/nodejs-webapp/
 
-WORKDIR /var/nodejs-app/
+WORKDIR /var/nodejs-webapp/
 
 COPY . .
 
