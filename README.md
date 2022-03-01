@@ -68,7 +68,6 @@ docker-compose down -v
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/93197553/146653060-26ecced6-f474-4d90-89b3-e4ec2f5f3327.png)
 
 ![image](https://user-images.githubusercontent.com/93197553/146653076-6259e311-03d3-4a0c-8488-464dd564dbee.png)
 
