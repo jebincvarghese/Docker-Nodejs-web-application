@@ -51,7 +51,7 @@ docker-compose up -d
 ## Provisioning
 1. Clone this repository
 ```
-git clone 
+git clone https://github.com/jebincvarghese/Docker-Nodejs-web-application.git
 ```
 2. Switch to the cloned directory
 ```
