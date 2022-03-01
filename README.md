@@ -21,7 +21,7 @@ docker build -t jebincvarghese/nodejs-app:1 .
 ```
 3. You can give the required tags to the docker image
 ```
-docker tag jebincvarghese/nodejs-app:1 freedafrancis/nodejs-app:latest
+docker tag jebincvarghese/nodejs-app:1 jebincvarghese/nodejs-app:latest
 ```
 4. Push the image to the repository
 ```
