@@ -6,6 +6,12 @@ Create a simple nodeJs application and deploy it onto a docker container.
 - [Install docker](https://docs.docker.com/engine/install/)
 - [Install docker-compose](https://docs.docker.com/compose/install/)
 
+### docker-compose installation
+```
+sudo curl -L "https://github.com/docker/compose/releases/download/1.29.2/docker-compose-$(uname -s)-$(uname -m)" -o /usr/bin/docker-compose
+sudo chmod +x /usr/bin/docker-compose
+docker-compose version   
+````
 ## Prerequisites
 
 1. A nodeJs web application using an Express framework in file server.js
